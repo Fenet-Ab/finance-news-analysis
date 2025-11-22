@@ -15,3 +15,21 @@ Additional metrics:
 
 ## 🚀 How to Run
 ### 1. Install dependencies
+
+### 2. Launch Jupyter Notebook
+
+
+### 3. Run the EDA and TA notebooks
+
+## 🔧 Tools Used
+- Python  
+- Pandas  
+- Matplotlib  
+- TA-Lib  
+- Git & GitHub  
+- VSCode
+
+## 👤 Author
+Fenet Abilu
+
+
